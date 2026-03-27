@@ -1,0 +1,23 @@
+# Blender auto-save files
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+
+# Blender quit file
+quit.blend
+
+# Thumbnails folder
+.thumbnails/
+
+# Render output folders
+render/
+output/
+
+# MacOS specific files
+.DS_Store
