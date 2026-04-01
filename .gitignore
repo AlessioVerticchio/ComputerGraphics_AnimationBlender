@@ -1,13 +1,16 @@
-# Blender auto-save files
+# Ignora la cartella delle simulazioni 
+caches_razzo/
+
+# --- File temporanei di Blender ---
 *.blend1
 *.blend2
 *.blend3
-*.blend4
-*.blend5
-*.blend6
-*.blend7
-*.blend8
-*.blend9
+*.blend*
+
+# --- File di simulazione (Cache generica) ---
+*.uni
+*.vdb
+*.pyc
 
 # Blender quit file
 quit.blend
@@ -19,5 +22,5 @@ quit.blend
 render/
 output/
 
-# MacOS specific files
+# --- File di sistema Mac ---
 .DS_Store
