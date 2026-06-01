@@ -5,7 +5,7 @@ caches_razzo/
 *.blend1
 *.blend2
 *.blend3
-*.blend*
+# *.blend*
 
 # --- File di simulazione (Cache generica) ---
 *.uni
